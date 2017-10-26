@@ -3,23 +3,28 @@ import FontAwesome from 'react-fontawesome'
 
 const Nav = () => (
   <nav className="navbar">
-    <h1 className="nav-log">cs.</h1>
+    <div className="nav-logo">cs.</div>
 
-    <div className="nav-links">
+    <div className="nav">
       <div className="menu">
-        <FontAwesome name="circle" />
-        <FontAwesome name="circle" />
-        <FontAwesome name="circle" />
+        <div className="menu-btn">
+          <FontAwesome name="circle" />
+          <FontAwesome name="circle" />
+          <FontAwesome name="circle" />
+        </div>
+
+        <div className="nav-links">
+          <Link href="/">
+            <a>Home</a>
+          </Link>
+          <Link href="/">
+            <a>Works</a>
+          </Link>
+          <Link href="/">
+            <a>Reach me</a>
+          </Link>
+        </div>
       </div>
-      <Link>
-        <a>Home</a>
-      </Link>
-      <Link>
-        <a>Works</a>
-      </Link>
-      <Link>
-        <a>Reach me</a>
-      </Link>
     </div>
   </nav>
 )

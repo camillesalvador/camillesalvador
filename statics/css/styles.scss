@@ -6,4 +6,14 @@
 $black: #161616;
 $white: #f7f9f9;
 
+// bases
+$base-padding: 2rem;
+
+//global styles
+body {
+  margin: 2.5rem 4rem;
+  background-color: $white;
+}
+
 // dependencies
+@import "_nav.scss"

@@ -1,0 +1,22 @@
+// * {
+//   border: 1px solid red;
+// }
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: $base-padding;
+
+  .nav-logo {
+    color: $black;
+  }
+
+  .fa-circle {
+    margin: 0 0.15rem;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+}
