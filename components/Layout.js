@@ -10,10 +10,6 @@ const Layout = (props) => (
       <title>Camille Salvador</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-      <script>
-
-      </script>
     </Head>
     <Nav />
     {props.children}

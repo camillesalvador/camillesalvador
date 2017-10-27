@@ -3,5 +3,5 @@
 (function () {
   "use strict";
 
-  module.exports = "body {\n  margin: 2.5rem 4rem;\n  background-color: #f7f9f9; }\n\n.navbar {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-pack: justify;\n      -ms-flex-pack: justify;\n          justify-content: space-between;\n  padding: 2rem; }\n\n.navbar .nav-logo {\n    color: #161616; }\n\n.navbar .fa-circle {\n    margin: 0 0.15rem; }\n\n.navbar .nav-links {\n    display: none; }\n";
+  module.exports = "body {\n  margin: 2.5rem 4rem;\n  background-color: #f7f9f9; }\n\n* {\n  border: 0.5px solid red; }\n\n.navbar {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-pack: justify;\n      -ms-flex-pack: justify;\n          justify-content: space-between;\n  padding: 2rem; }\n\n.navbar .nav-logo {\n    color: #161616; }\n\n.navbar .menu-btn {\n    cursor: pointer; }\n\n.navbar .menu-btn .fa-circle {\n      margin: 0 0.15rem; }\n\n.navbar .nav-links {\n    display: none; }\n";
 })();
