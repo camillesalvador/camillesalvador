@@ -23,4 +23,9 @@
     display: none;
   }
 
+  .menu {
+    &.active > .nav-links {
+      display: block;
+    }
+  }
 }
