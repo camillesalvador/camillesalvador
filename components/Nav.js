@@ -3,15 +3,13 @@ import FontAwesome from 'react-fontawesome'
 import MobileNav from './MobileNav'
 
 export default props => {
-
   return (
-
     <nav className="navbar">
       <div className="nav-logo">cs.</div>
 
       <MobileNav>
-        <div className="menu" id="menu">
-          <div className="menu-btn" id="menu-btn">
+        <div className="menu">
+          <div className="menu-btn">
             <FontAwesome name="circle" />
             <FontAwesome name="circle" />
             <FontAwesome name="circle" />
@@ -29,7 +27,6 @@ export default props => {
             </Link>
           </div>
         </div>
-
       </MobileNav>
     </nav>
   )

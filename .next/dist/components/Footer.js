@@ -18,7 +18,7 @@ var Footer = function Footer() {
       fileName: _jsxFileName,
       lineNumber: 2
     }
-  }, "Copyright \xA9 2017 | Camille Salvador");
+  }, "Copyright 2017 | Camille Salvador");
 };
 
 exports.default = Footer;

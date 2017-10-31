@@ -1,11 +1,8 @@
-* {
-  border: 0.5px solid red;
-}
 
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: $base-padding;
+  padding: $base-padding 0;
 
   .nav-logo {
     color: $black;

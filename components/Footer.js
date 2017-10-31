@@ -1,6 +1,6 @@
 const Footer = () => (
   <footer>
-    Copyright &copy; 2017 | Camille Salvador 
+    Copyright 2017 | Camille Salvador 
   </footer>
 )
 

@@ -1,0 +1,21 @@
+.hero-head {
+  display: flex;
+  .hero-img {
+    background: $hero no-repeat center center;
+    background-size: cover;
+    height: 76vh;
+    flex-basis: 75%;
+  }
+  .description {
+    position: relative;
+    p {
+      position: relative;
+      top: 70%;
+      left: -30%;
+      height: 50px;
+      background-color: $black;
+      color: $white;
+      padding: 0.5rem;
+    }
+  }
+}
