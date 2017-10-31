@@ -7,7 +7,7 @@ export default props => {
     <nav className="navbar">
       <div className="nav-logo">cs.</div>
 
-      <MobileNav>
+      <MobileNav className="menu-wrapper">
         <div className="menu">
           <div className="menu-btn">
             <FontAwesome name="circle" />

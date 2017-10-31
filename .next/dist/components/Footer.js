@@ -18,8 +18,13 @@ var Footer = function Footer() {
       fileName: _jsxFileName,
       lineNumber: 2
     }
-  }, "Copyright 2017 | Camille Salvador");
+  }, _react2.default.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    }
+  }, "Copyright 2017 | Camille Salvador "));
 };
 
 exports.default = Footer;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvRm9vdGVyLmpzIl0sIm5hbWVzIjpbIkZvb3RlciJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7QUFBQSxJQUFNLFNBQVMsU0FBVCxBQUFTLFNBQUE7eUJBQ2IsY0FBQTs7Z0JBQUE7a0JBQUE7QUFBQTtBQUFBLEdBQUEsRUFEYSxBQUNiO0FBREYsQUFNQTs7a0JBQUEsQUFBZSIsImZpbGUiOiJGb290ZXIuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL2NhbWlsbGUvU2l0ZXMvY2FtaWxsZXNhbHZhZG9yLmdpdGh1Yi5pbyJ9
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvRm9vdGVyLmpzIl0sIm5hbWVzIjpbIkZvb3RlciJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7QUFBQSxJQUFNLFNBQVMsU0FBVCxBQUFTLFNBQUE7eUJBQ2IsY0FBQTs7Z0JBQUE7a0JBQUEsQUFDRTtBQURGO0FBQUEsR0FBQSxrQkFDRSxjQUFBOztnQkFBQTtrQkFBQTtBQUFBO0FBQUEsS0FGVyxBQUNiLEFBQ0U7QUFGSixBQU1BOztrQkFBQSxBQUFlIiwiZmlsZSI6IkZvb3Rlci5qcyIsInNvdXJjZVJvb3QiOiIvVXNlcnMvY2FtaWxsZS9TaXRlcy9jYW1pbGxlc2FsdmFkb3IuZ2l0aHViLmlvIn0=

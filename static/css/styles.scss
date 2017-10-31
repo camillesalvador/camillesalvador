@@ -1,9 +1,15 @@
 // import fonts
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
+@import url("https://fonts.googleapis.com/css?family=Unica+One");
 
 // img assets
 $hero: url("/static/img/hero.jpg");
 
 // fonts
+$inconsolota: 'Inconsolata', monospace;
+$unica-one: 'Unica One', cursive;
+
+$base-font: 1rem;
 
 // colors
 $black: #161616;
@@ -11,11 +17,13 @@ $white: #f7f9f9;
 
 // bases
 $base-padding: 2rem;
+$base-margin-lr: 6rem;
+$base-margin-tb: 2.5rem;
 
 //global styles
 body {
-  margin: 2.5rem 4rem;
   background-color: $white;
+  position: relative;
 }
 
 // for testing position

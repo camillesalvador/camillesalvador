@@ -1,21 +1,24 @@
 .hero-head {
-  display: flex;
+  position: relative;
+  margin: 0 $base-margin-lr;
   .hero-img {
     background: $hero no-repeat center center;
     background-size: cover;
-    height: 76vh;
-    flex-basis: 75%;
+    height: 84.5vh;
+    width: 85%;
   }
   .description {
-    position: relative;
+    position: absolute;
+    top: 70%;
+    left: 72%;
     p {
-      position: relative;
-      top: 70%;
-      left: -30%;
-      height: 50px;
       background-color: $black;
       color: $white;
-      padding: 0.5rem;
+      padding: $base-padding * 1;
+      margin: 0;
+      font-family: $inconsolota;
+      text-align: right;
+      font-size: $base-font * 1.5;
     }
   }
 }

@@ -6,8 +6,9 @@ export default() => (
     <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
     <div className="hero-head">
       <div className="hero-img"></div>
+
       <div className="description">
-        <p>a web developer and a part-time witcher</p>
+        <p>a web developer<br/>and a part-time witcher</p>
       </div>
     </div>
   </Layout>

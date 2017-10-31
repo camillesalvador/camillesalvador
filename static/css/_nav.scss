@@ -2,10 +2,14 @@
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: $base-padding 0;
+  padding: $base-padding*0.7 0;
+  margin: 0 $base-margin-lr;
+  margin-top: $base-margin-tb;
 
   .nav-logo {
     color: $black;
+    font-family: $unica-one;
+    font-size: $base-font * 2;
   }
 
   .menu-btn {
@@ -18,11 +22,41 @@
 
   .nav-links {
     display: none;
+    z-index: 2;
+  }
+
+  .menu-wrapper {
+    display: relative;
   }
 
   .menu {
-    &.active > .nav-links {
-      display: block;
+    &.active {
+      background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8));
+      color: $white;
+      position: absolute;
+      padding: 0 $base-margin-lr;
+      padding-top: 3.8rem;
+      top: 0; right: 0;
+      margin-top: -$base-margin-tb;
+      z-index: 1;
+      height: 92.2vh;
+      .menu-btn {
+        text-align: right;
+      }
+      .nav-links {
+        display: flex;
+        flex-direction: column;
+        text-align: right;
+        font-family: $unica-one;
+        font-size: $base-font * 2.5;
+        margin-top: $base-margin-tb;
+        a {
+          margin-top: $base-margin-tb * 0.5;
+          text-transform: uppercase;
+          text-decoration: none;
+          color: $white;
+        }
+      }
     }
   }
 }
