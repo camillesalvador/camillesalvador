@@ -32,12 +32,13 @@
   }
 
   .menu {
+    margin-top: 1rem;
     &.active {
       background: $overlay;
       color: $white;
       position: absolute;
       padding: 0 $base-margin-lr;
-      padding-top: 3.8rem;
+      padding-top: 4.8rem;
       padding-left: $base-margin-lr * 2;
       top: 0; right: 0;
       margin-top: -$base-margin-tb;

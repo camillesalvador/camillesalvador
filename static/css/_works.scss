@@ -17,12 +17,9 @@
   main {
     display: flex;
     flex-direction: column;
-    margin-bottom: $base-margin-tb;
     .top, .bottom {
       display: flex;
-    }
-    .top {
-      margin-bottom: $base-margin-tb * 0.7;
+      margin-bottom: $base-margin-tb * 0.7
     }
     .project1 {
       background: $overlay, $project1 no-repeat center center;
@@ -40,7 +37,7 @@
       background-size: cover;
       display: flex;
       justify-content: center;
-      width: 50%;
+      flex-basis: 50%;
       height: 20rem;
       align-items: center;
       padding: $base-padding;
