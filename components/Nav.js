@@ -26,7 +26,7 @@ export default props => {
             <Link href="/about">
               <a>About me</a>
             </Link>
-            <Link href="/">
+            <Link href="/works">
               <a>Selected Works</a>
             </Link>
             <Link href="/about">

@@ -88,7 +88,7 @@ exports.default = function (props) {
       fileName: _jsxFileName,
       lineNumber: 27
     }
-  }, 'About me')), _react2.default.createElement(_link2.default, { href: '/', __source: {
+  }, 'About me')), _react2.default.createElement(_link2.default, { href: '/works', __source: {
       fileName: _jsxFileName,
       lineNumber: 29
     }

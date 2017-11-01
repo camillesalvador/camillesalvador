@@ -5,7 +5,8 @@ module.exports = {
   exportPathMap: function() {
     return {
       '/': { page: '/' },
-      '/about': {page: '/.about'},
+      '/about': { page: '/about' },
+      '/works': { page: '/works'}
     }
   },
   webpack: (config, { dev }) => {
