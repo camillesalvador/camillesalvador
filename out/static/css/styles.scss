@@ -1,0 +1,92 @@
+// import fonts
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
+@import url("https://fonts.googleapis.com/css?family=Unica+One");
+
+// img assets
+$hero: url("/static/img/hero.jpg");
+$project1: url("/static/img/akafred.png");
+$project2: url("/static/img/achievecare.png");
+$project3: url("/static/img/weather.png");
+$project4: url("/static/img/gratia.png");
+
+//overlay
+$overlay: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8));
+
+// fonts
+$inconsolota: 'Inconsolata', monospace;
+$unica-one: 'Unica One', cursive;
+
+$base-font: 1rem;
+
+// colors
+$black: #161616;
+$white: #f7f9f9;
+
+// bases
+$base-padding: 2rem;
+$base-margin-lr: 6rem;
+$base-margin-tb: 2.5rem;
+
+//global styles
+body {
+  background-color: $white;
+  position: relative;
+}
+
+// dependencies
+@import "_nav.scss";
+@import "_home.scss";
+@import "_about.scss";
+@import "_works.scss";
+@import "_footer.scss";
+
+
+// media queries
+@media screen and (max-width: 576px) {
+  .navbar, .hero-head, .work-container, .about-container {
+    margin-left: $base-margin-lr * 0.25;
+    margin-right: $base-margin-lr * 0.25;
+    margin-top: $base-margin-tb * 0.25;
+  }
+  .navbar {
+    .menu {
+      &.active {
+        padding: 0 $base-margin-lr;
+        padding-right: 1.5rem;
+        padding-top: 4.8rem;
+        height: 100vh;
+        width: 100%;
+      }
+    }
+  }
+  .about-container {
+    main {
+      .description {
+        p {
+          padding: 0;
+        }
+      }
+    }
+  }
+  .hero-head {
+    .hero-img {
+      width: 100%;
+    }
+  }
+  footer {
+    font-size: $base-font*0.8;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .work-container {
+    main {
+      .top, .bottom {
+        flex-direction: column;
+      }
+      .project1, .project2, .project3, .project4 {
+        margin: $base-margin-tb/2 0;
+      }
+    }
+  }
+}
