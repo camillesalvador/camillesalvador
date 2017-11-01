@@ -5,7 +5,11 @@ import MobileNav from './MobileNav'
 export default props => {
   return (
     <nav className="navbar">
-      <div className="nav-logo">cs.</div>
+      <div className="nav-logo">
+      <Link href="/">
+        <a>cs.</a>
+      </Link>
+      </div>
 
       <MobileNav className="menu-wrapper">
         <div className="menu">
@@ -19,10 +23,13 @@ export default props => {
             <Link href="/">
               <a>Home</a>
             </Link>
-            <Link href="/">
-              <a>Works</a>
+            <Link href="/about">
+              <a>About me</a>
             </Link>
             <Link href="/">
+              <a>Selected Works</a>
+            </Link>
+            <Link href="/about">
               <a>Reach me</a>
             </Link>
           </div>
