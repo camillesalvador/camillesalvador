@@ -20,16 +20,16 @@ export default props => {
           </div>
 
           <div className="nav-links">
-            <Link href="/">
+            <Link href="out/">
               <a>Home</a>
             </Link>
-            <Link href="/about">
+            <Link href="/out/about">
               <a>About me</a>
             </Link>
-            <Link href="/works">
+            <Link href="out/works">
               <a>Selected Works</a>
             </Link>
-            <Link href="/about">
+            <Link href="out/about">
               <a>Reach me</a>
             </Link>
           </div>
