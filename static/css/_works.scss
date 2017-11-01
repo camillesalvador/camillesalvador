@@ -1,0 +1,91 @@
+.work-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 $base-margin-lr;
+  margin-bottom: $base-margin-tb;
+  .work-title {
+    margin-top: 0;
+    align-self: center;
+    font-family: $unica-one;
+    font-size: $base-font * 2;
+    text-transform: uppercase;
+    padding: $base-padding*0.5 $base-padding;
+    background-color: $black;
+    color: $white;
+  }
+
+  main {
+    display: flex;
+    flex-direction: column;
+    .top, .bottom {
+      display: flex;
+      margin-bottom: $base-margin-tb * 0.7
+    }
+    .project1 {
+      background: $overlay, $project1 no-repeat center center;
+    }
+    .project2 {
+      background: $overlay, $project2 no-repeat center center;
+    }
+    .project3 {
+      background: $overlay, $project3 no-repeat center center;
+    }
+    .project4 {
+      background: $overlay, $project4 no-repeat center center;
+    }
+    .project1, .project2, .project3, .project4 {
+      background-size: cover;
+      display: flex;
+      justify-content: center;
+      flex-basis: 50%;
+      height: 20rem;
+      align-items: center;
+      padding: $base-padding;
+      a {
+        text-decoration: none;
+        color: $white;
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        transition: 0.1s ease-in;
+        &:hover {
+          border: 1px solid $white;
+          opacity: 0.5;
+        }
+      }
+    }
+    .project-title {
+      text-transform: uppercase;
+      font-size: $base-font * 2;
+      font-family: $unica-one;
+    }
+    .project-description {
+      font-family: $inconsolota;
+      font-size: $base-font*1.2;
+    }
+    .project1, .project3 {
+      margin-right: $base-margin-lr * 0.15;
+    }
+    .project2, .project4 {
+      margin-left: $base-margin-lr * 0.15;
+    }
+  }
+
+  .more {
+    display: flex;
+    justify-content: center;
+    a {
+      text-decoration: none;
+      color: $black;
+      font-family: $inconsolota;
+      font-weight: bold;
+      font-size: $base-font * 1.2;
+      &:hover {
+        opacity: 0.5;
+      }
+    }
+  }
+}
