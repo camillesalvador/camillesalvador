@@ -6,6 +6,7 @@ const Layout = (props) => (
   <div>
     <Head>
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+      <meta name="description" content="Camille Salvador is a Web Developer from Calgary, Alberta Canada." />
       <title>Camille Salvador</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />

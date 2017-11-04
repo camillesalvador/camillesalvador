@@ -39,7 +39,7 @@ export default() => (
       </main>
 
       <div className="more">
-        <a href="https://www.github.com/camillesalvador">Click here to see more</a>
+        <a href="https://github.com/camillesalvador">Click here to see more</a>
       </div>
     </div>
   </Layout>
