@@ -29,9 +29,9 @@ export default() => (
       <div className="social">
         <p className="social-title">Say hi!</p>
         <div className="social-icons">
-          <a href="https://github.com/camillesalvador"><FontAwesome name="github fa-3x" /></a>
-          <a href="https://codepen.io/camillesalvador"><FontAwesome name="codepen fa-3x" /></a>
-          <a href="https://www.linkedin.com/in/camillesalvador/"><FontAwesome name="linkedin fa-3x" /></a>
+          <a href="https://github.com/camillesalvador" target="_blank"><FontAwesome name="github fa-3x" /></a>
+          <a href="https://codepen.io/camillesalvador" target="_blank"><FontAwesome name="codepen fa-3x" /></a>
+          <a href="https://www.linkedin.com/in/camillesalvador/" target="_blank"><FontAwesome name="linkedin fa-3x" /></a>
         </div>
       </div>
     </div>
