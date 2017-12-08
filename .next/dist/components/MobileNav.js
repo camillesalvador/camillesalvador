@@ -30,6 +30,9 @@ var _react2 = _interopRequireDefault(_react);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+var _jsxFileName = "/Users/camille/Sites/camillesalvador/components/MobileNav.js";
+
+
 var _class = function (_React$Component) {
   (0, _inherits3.default)(_class, _React$Component);
 
@@ -66,7 +69,11 @@ var _class = function (_React$Component) {
       return _react2.default.createElement("div", { ref: function ref(a) {
           return _this2.button = a;
         },
-        onClick: this.handleClick }, this.props.children);
+        onClick: this.handleClick, __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        }
+      }, this.props.children);
     }
   }]);
 
@@ -74,3 +81,4 @@ var _class = function (_React$Component) {
 }(_react2.default.Component);
 
 exports.default = _class;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvTW9iaWxlTmF2LmpzIl0sIm5hbWVzIjpbIlJlYWN0IiwiaGFuZGxlQ2xpY2siLCJiaW5kIiwiYnV0dG9uIiwiY2hpbGRyZW4iLCJpIiwiYSIsIm9uY2xpY2siLCJjbGFzc0xpc3QiLCJ0b2dnbGUiLCJsZW5ndGgiLCJwcm9wcyIsIkNvbXBvbmVudCJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBQSxBQUFPOzs7Ozs7Ozs7O2tDQUdMOztvQkFBYzt3Q0FBQTs7Z0lBRVo7O1VBQUEsQUFBSyxjQUFjLE1BQUEsQUFBSyxZQUFMLEFBQWlCLEtBRnhCLEFBRVo7V0FDRDs7Ozs7a0NBRWEsQUFDWjtVQUFNLFNBQVMsS0FBQSxBQUFLLE9BRFIsQUFDWixBQUEyQjs7aUNBRGYsQUFFSCxHQUNQO1lBQUksSUFBSSxPQUFSLEFBQVEsQUFBTyxBQUNmO1VBQUEsQUFBRSxVQUFVLFlBQUE7aUJBQU0sRUFBQSxBQUFFLFVBQUYsQUFBWSxPQUFsQixBQUFNLEFBQW1CO0FBSjNCLEFBSVY7QUFGRjs7V0FBSyxJQUFJLElBQVQsQUFBYSxHQUFHLElBQUksT0FBcEIsQUFBMkIsUUFBM0IsQUFBbUMsS0FBSztjQUEvQixBQUErQixBQUd2QztBQUNGOzs7OzZCQUVRO21CQUNQOzs2QkFDRSxjQUFBLFNBQUssS0FBSyxnQkFBQTtpQkFBSyxPQUFBLEFBQUssU0FBVixBQUFtQjtBQUE3QixBQUNBO2lCQUFTLEtBRFQsQUFDYztvQkFEZDtzQkFBQSxBQUVDO0FBRkQ7T0FBQSxPQUVDLEFBQUssTUFIUixBQUNFLEFBRVksQUFHZjs7Ozs7RUFyQjBCLGdCQUFNLEEiLCJmaWxlIjoiTW9iaWxlTmF2LmpzIiwic291cmNlUm9vdCI6Ii9Vc2Vycy9jYW1pbGxlL1NpdGVzL2NhbWlsbGVzYWx2YWRvciJ9

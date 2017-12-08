@@ -5,9 +5,9 @@ export default() => (
   <Layout>
     <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
     <div className="hero-head zoomIn">
-      <div className="hero-img"></div>
+      <div className="hero-img fadeInUp animated"></div>
 
-      <div className="description">
+      <div className="description fadeInUp animated">
         <p>a web developer<br/>and a part-time witcher</p>
       </div>
     </div>
