@@ -29,9 +29,6 @@ export default props => {
             <Link href="/works">
               <a>Selected Works</a>
             </Link>
-            <Link href="/about">
-              <a>Reach me</a>
-            </Link>
           </div>
         </div>
       </MobileNav>
