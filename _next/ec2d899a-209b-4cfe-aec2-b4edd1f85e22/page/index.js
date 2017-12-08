@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/', function() {
+            var comp = module.exports=webpackJsonp([5],{213:function(e,t,a){e.exports=a(214)},214:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var n=a(1),r=l(n),u=a(69),d=l(u),c=a(71),f=l(c),o=a(72),m=l(o);t.default=function(){return r.default.createElement(f.default,null,r.default.createElement("style",{dangerouslySetInnerHTML:{__html:m.default}}),r.default.createElement("div",{className:"hero-head zoomIn"},r.default.createElement("div",{className:"hero-img fadeInUp animated"}),r.default.createElement("div",{className:"description fadeInUp animated"},r.default.createElement("p",null,"a web developer",r.default.createElement("br",null),"and a part-time witcher"),r.default.createElement(d.default,{className:"see-work-btn",href:"/works"},r.default.createElement("a",null,"check out my work")))))}}},[213]);
+            return { page: comp.default }
+          })
+        
