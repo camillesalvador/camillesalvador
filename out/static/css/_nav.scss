@@ -33,6 +33,7 @@
 
   .menu {
     margin-top: 1rem;
+    transition: .5s ease;
     &.active {
       background: $overlay;
       color: $white;
@@ -62,6 +63,10 @@
           &:hover {
             opacity: 0.5;
           }
+        }
+        .email-link {
+            margin-top: 100px;
+            font-size: $base-font / .8;
         }
       }
     }
