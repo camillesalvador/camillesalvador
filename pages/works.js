@@ -4,7 +4,7 @@ import stylesheet from '../static/css/styles.scss'
 export default() => (
   <Layout>
     <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
-    <div className="work-container">
+    <div className="work-container fadeInUp animated">
       <p className="work-title">Selected works</p>
 
       <main>

@@ -29,7 +29,12 @@ export default props => {
             <Link href="/works">
               <a>Selected Works</a>
             </Link>
+
+            {/*
+            <a className="email-link" href="mailto:camille.salvador@outlook.com?Subject=Hello" target="_top">Send me an email at<br/>camille.salvador@outlook.com</a>
+            */}
           </div>
+
         </div>
       </MobileNav>
     </nav>

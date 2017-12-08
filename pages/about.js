@@ -6,7 +6,7 @@ import stylesheet from '../static/css/styles.scss'
 export default() => (
   <Layout>
     <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
-    <div className="about-container">
+    <div className="about-container fadeInUp animated">
       <main>
         <div className="description">
           <div className="about-title">
