@@ -64,9 +64,9 @@
             opacity: 0.5;
           }
         }
-        .email-link {
-            margin-top: 100px;
-            font-size: $base-font / .8;
+        .nav-mail {
+            margin-top: $base-margin-tb * 5;
+            font-size: $base-font * 1.3;
         }
       }
     }
