@@ -30,9 +30,7 @@ export default props => {
               <a>Selected Works</a>
             </Link>
 
-            {/*
-            <a className="email-link" href="mailto:camille.salvador@outlook.com?Subject=Hello" target="_top">Send me an email at<br/>camille.salvador@outlook.com</a>
-            */}
+            <a className="nav-mail" href="mailto:camille.salvador@outlook.com" target="_top">camille.salvador@outlook.com</a>
           </div>
 
         </div>

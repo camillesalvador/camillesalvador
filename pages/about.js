@@ -32,6 +32,7 @@ export default() => (
           <a href="https://github.com/camillesalvador" target="_blank"><FontAwesome name="github fa-3x" /></a>
           <a href="https://codepen.io/camillesalvador" target="_blank"><FontAwesome name="codepen fa-3x" /></a>
           <a href="https://www.linkedin.com/in/camillesalvador/" target="_blank"><FontAwesome name="linkedin fa-3x" /></a>
+          <a href="mailto:camille.salvador@outlook.com" target="_top"><FontAwesome name="envelope-o fa-3x" /></a>
         </div>
       </div>
     </div>
