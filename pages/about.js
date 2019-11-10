@@ -13,10 +13,10 @@ export default() => (
             <p>About Me</p>
           </div>
           <p>
-            Hi, I’m Camille Salvador. I’m a 21-year old with a Back-End
-            Development training
-             who once fell (and may still have lingering feelings) for Java and
-             RDBMS but is currently pursuing Front-End Development instead.
+          Hi, I’m Camille Salvador. I’m a Front-End Developer who enjoys implementing design into fully functional 
+            UI components and/or pages. Had training in Software Development 
+            and once fell (and may still have lingering feelings) for Java and RDMS, but mostly delves in VueJS 
+            and PHP in the last few years. On my spare time, I try to pick up random tech to play around with; currently, it’s Fluttr. 
             <br/>  <br/>
             I enjoy wandering around and getting lost in books, movies, and
             story rich RPG games. And I occasionally get lost in K-dramas which

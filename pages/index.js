@@ -9,7 +9,7 @@ export default() => (
       <div className="hero-img fadeInUp animated"></div>
 
       <div className="description fadeInUp animated">
-        <p>a web developer<br/>and a part-time witcher</p>
+        <p>a front-end developer<br/>and a part-time witcher</p>
         <Link className="see-work-btn" href="/works">
             <a>check out my work</a>
         </Link>

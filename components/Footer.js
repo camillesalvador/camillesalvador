@@ -1,6 +1,6 @@
 const Footer = () => (
   <footer>
-    <p>Copyright 2017 | Camille Salvador </p>
+    <p>Copyright 2019 | Camille Salvador </p>
   </footer>
 )
 
