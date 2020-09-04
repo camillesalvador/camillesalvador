@@ -14,7 +14,7 @@
     "export": "^0.1.337",
     "glob": "^7.1.2",
     "next": "^4.1.4",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "postcss-easy-import": "^3.0.0",
     "postcss-loader": "^2.0.8",
     "raw-loader": "^0.5.1",
