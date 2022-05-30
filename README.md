@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Helcim**
+- 🏢 I'm currently working at **[Helcim]([https://](https://www.helcim.com/))**
 - 🛠 I use daily: `.vue`, `.js`, `.html`, `.scss`, `.fig`
 - 🌱 Life-long learner
 - 💻 Currently playing **Cyberpunk**, **Final Fantasy XIV**, and **Cozy Grove**
