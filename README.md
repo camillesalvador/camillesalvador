@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **[ATB Ventures]([https://atbventures.com/](https://atbventures.com/))**
+- 🏢 I'm currently working at **[ATB Ventures](https://atbventures.com/)**
 - 🛠 I work with these files daily: `.vue`, `.js`, `.html`, `.scss`, `.fig`
 - 🌱 Life-long learner
 - 💻 Currently playing **Pokémon Legends: Arceus**, **Final Fantasy XIV**, and **Cozy Grove**
