@@ -1,6 +1,6 @@
 ### Hi 👋
 
-#### I'm a Lead Front-End Developer working in Calgary, Alberta.
+#### I'm a Senior Software Developer working in Calgary, Alberta.
 
 ##### BIO
 
