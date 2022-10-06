@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **[ATB Ventures](https://atbventures.com/)**
-- 🛠 I work with these files daily: `.vue`, `.js`, `.html`, `.scss`, `.fig`
+- 🛠 I work with these files daily: `.vue`, `.js`, `.html`, `.scss`, `.fig`, and recently `.tsx`
 - 🌱 Life-long learner
 - 💻 Currently playing **Pokémon Legends: Arceus**, **Final Fantasy XIV**, and **Disney Dreamlight Valley**
 - 🥵 Fun Fact: I can't eat spicy food. For context, I can't even eat KFC chicken.
