@@ -10,3 +10,6 @@
 - 💻 Currently playing **Pokémon Legends: Arceus**, **Final Fantasy XIV**, and **Disney Dreamlight Valley**
 - 🥵 Fun Fact: I can't eat spicy food. For context, I can't even eat KFC chicken.
 - 👉 Check out my [portfolio](https://camillesalvador.github.io/camillesalvador/) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillesalvador&layout=compact)](https://github.com/camillesalvador/github-readme-stats)
