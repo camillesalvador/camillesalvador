@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A709A&width=435&lines=Hi%2C+friend!+%F0%9F%91%8B;I'm+Camille++%F0%9F%99%88)](https://git.io/typing-svg)
 
-#### I'm a Senior Software Developer working.
-
 ##### BIO
 
 - 💻 I'm currently working at **[ATB Ventures](https://atbventures.com/)**
@@ -11,6 +9,4 @@
 - 🥵 Fun Fact: I can't eat spicy food. For context, I can't even eat KFC chicken.
 - 👉 Check out my [portfolio](https://camillesalvador.github.io/camillesalvador/) 
 
-
-##### Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillesalvador&layout=compact)
