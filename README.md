@@ -2,7 +2,8 @@
 
 ##### BIO
 
-- 💻 I'm currently working at **[ATB Ventures](https://atbventures.com/)**
+- 👩🏻‍💻 I'm a **Senior Software Dev (Web)**
+- 💻 Currently working at **[ATB Ventures](https://atbventures.com/)**
 - 🛠 I work with these files daily: `.vue`, `.js`, `.html`, `.scss`, `.fig`, and recently `.tsx`
 - 🌱 Life-long learner
 - 👾 Currently playing **Ghost of Tsushima**, **Final Fantasy XIV**, and **Disney Dreamlight Valley**
