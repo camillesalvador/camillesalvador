@@ -7,7 +7,6 @@
 - 🛠 I work with these files daily: `.vue`, `.js`, `.html`, `.scss`, `.fig`, and recently `.tsx`
 - 🌱 Life-long learner
 - 👾 Currently playing **Ghost of Tsushima**, **Final Fantasy XIV**, and **Disney Dreamlight Valley**
-- 🥵 Fun Fact: I can't eat spicy food. For context, I can't even eat KFC chicken.
 - 👉 Check out my [portfolio](https://camillesalvador.github.io/camillesalvador/) 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=camillesalvador&show_icons=true&locale=en&theme=dark" alt="camillesalvador" />
