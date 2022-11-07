@@ -11,3 +11,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camillesalvador&layout=compact&theme=dark"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=camillesalvador&show_icons=true&locale=en&theme=dark" alt="camillesalvador" />
