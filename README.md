@@ -9,5 +9,9 @@
 - 🥵 Fun Fact: I can't eat spicy food. For context, I can't even eat KFC chicken.
 - 👉 Check out my [portfolio](https://camillesalvador.github.io/camillesalvador/) 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=camillesalvador&layout=compact"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=camillesalvador&layout=compact&theme=dark"/>
+
+
+##### WIP of reviving my github account
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=camillesalvador"/>
