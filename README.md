@@ -14,4 +14,4 @@
 
 
 ##### WIP of reviving my github account
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=camillesalvador"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=camillesalvador&theme=dark"/>
