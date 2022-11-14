@@ -6,7 +6,7 @@
 - 💻 Currently working at **[ATB Ventures](https://atbventures.com/)**
 - 🛠 I work with these files daily: `.vue`, `.js`, `.html`, `.scss`, `.fig`, and recently `.tsx`
 - 🌱 Life-long learner
-- 👾 Currently playing **Ghost of Tsushima**, **Final Fantasy XIV**, and **Disney Dreamlight Valley**
+- 👾 Currently playing **Ghost of Tsushima**, **Final Fantasy XIV**, and **God of War: Ragnarok**
 - 👉 Check out my [portfolio](https://camillesalvador.github.io/camillesalvador/) 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=camillesalvador&show_icons=true&locale=en&theme=dark" alt="camillesalvador" />
