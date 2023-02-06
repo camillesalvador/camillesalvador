@@ -5,7 +5,7 @@
 - 👩🏻‍💻 I'm a **Senior Software Dev (Web)**
 - 💻 Currently working at **[ATB Ventures](https://atbventures.com/)**
 - 🛠 I work with these files daily: `.vue`, `.js`, `.html`, `.scss`, `.fig`, and recently `.tsx`
-- 🌱 Life-long learner
+- 🌱 Always learning. :'>
 - 👾 Currently playing **Final Fantasy XIV**, **Story of Seasons: Pioneer's of Olive Town**, and **Assassin's Creed: Brotherhood**
 - 👉 Check out my [portfolio](https://camillesalvador.github.io/camillesalvador/) 
 
