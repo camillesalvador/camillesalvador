@@ -6,7 +6,7 @@
 - 💻 Currently working at **[ATB Ventures](https://atbventures.com/)**
 - 🛠 I work with these files daily: `.js`, `.html`, `.scss`, `.fig`, and `.tsx`
 - 🌱 Always learning. :'>
-- 👾 Currently playing **Final Fantasy XIV**,**Assassin's Creed: Brotherhood** and **Hogwart's Legacy**
+- 👾 Currently playing **Final Fantasy XIV**, **Assassin's Creed: Brotherhood** and **Hogwart's Legacy**
 - 👉 Check out my [portfolio](https://camillesalvador.github.io/camillesalvador/) 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=camillesalvador&show_icons=true&locale=en&theme=dark" alt="camillesalvador" />
