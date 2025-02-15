@@ -6,7 +6,7 @@
 - 💻 Currently working at **[ATB Ventures](https://atbventures.com/)**
 - 🛠 I work with these files daily: `.js`, `.html`, `.scss`, `.fig`, and `.tsx`
 - 🌱 Always learning. :'>
-- 👾 Currently playing **Final Fantasy XIV** and **Cyberpunk 2077**
+- 👾 Currently playing **Final Fantasy XIV**
 - 👉 Check out my [portfolio](https://camillesalvador.dev) 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=camillesalvador&show_icons=true&locale=en&theme=dark" alt="camillesalvador" />
