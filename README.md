@@ -3,7 +3,7 @@
 ##### BIO
 
 - 👩🏻‍💻 I'm a **Senior Software Dev (Web)**
-- 💻 Currently working at **[ATB Ventures](https://atbventures.com/)**
+- 💻 Brewing a future :3 
 - 🛠 I work with these files daily: `.js`, `.html`, `.scss`, `.fig`, and `.tsx`
 - 🌱 Always learning. :'>
 - 👾 Currently playing **Final Fantasy XIV**
