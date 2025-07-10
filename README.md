@@ -6,7 +6,7 @@
 - 💻 Brewing a future :3 
 - 🛠 I work with these files daily: `.js`, `.html`, `.scss`, `.fig`, and `.tsx`
 - 🌱 Always learning. :'>
-- 👾 Currently playing **Final Fantasy XIV**
+- 👾 Currently playing **Final Fantasy XIV** & **Fantasy Life I: The Girl Who Steals Time**
 - 👉 Check out my [portfolio](https://camillesalvador.dev) 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=camillesalvador&show_icons=true&locale=en&theme=dark" alt="camillesalvador" />
